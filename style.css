@@ -6,3 +6,10 @@ div{
     color: aliceblue;
     background-color: aqua;
 }
+
+button{
+    background-color: aliceblue;
+    color: black;
+    margin: auto;
+    padding: auto;
+}
